@@ -38,7 +38,6 @@ The analysis is based on the following CSV files:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=bookstack&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-3A8F66?style=for-the-badge&logoColor=white)
 
 ### ✅ Conclusion
 Based on the obtained data, I can conclude that the new payment mechanism affected revenue, as the ARPPU differs significantly between groups (p-value < 0.05).
